@@ -1,3 +1,3 @@
-docker pull docker pull openjdk
+docker pull openjdk
 
 pwd
